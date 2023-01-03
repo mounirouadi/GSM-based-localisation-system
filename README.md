@@ -21,7 +21,8 @@ Call the SIM card associated with the Neoway GSM module. The call will be automa
 The location information will be sent as an SMS to the caller.
 Example of the sent sms:
 
-<img src="https://raw.githubusercontent.com/mounirouadi/GSM-based-localisation-system/main/screenshot.jpg" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/mounirouadi/GSM-based-localisation-system/main/screenshot.jpg" width="30%" height="30%">
+
 # Customization
 You can customize the behavior of the localization system by modifying the code in the localization.ino file. For example, you can change the format of the SMS message or add additional AT commands to the code.
 
