@@ -19,6 +19,8 @@ This project is an Arduino-based localization system that uses a Neoway GSM modu
 # Usage
 Call the SIM card associated with the Neoway GSM module. The call will be automatically hung up, and the device's location will be determined using the GPS module.
 The location information will be sent as an SMS to the caller.
+Example of the sent sms:
+![Screenshot of the received localisation](https://raw.githubusercontent.com/mounirouadi/GSM-based-localisation-system/main/screenshot.jpg)
 # Customization
 You can customize the behavior of the localization system by modifying the code in the localization.ino file. For example, you can change the format of the SMS message or add additional AT commands to the code.
 
